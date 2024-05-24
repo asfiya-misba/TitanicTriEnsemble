@@ -1,0 +1,9 @@
+# TitanicTriEnsemble
+
+## Project Overview
+TitanicTriEnsemble is a project conducted during UTA Summer 2023, focusing on ensemble learning methods for predicting Titanic passenger survival. The project explores Decision Trees, Random Forest, and AdaBoost algorithms to achieve accurate predictions.
+
+## Goals
+- Implement and analyze ensemble learning techniques.
+- Predict Titanic passenger survival based on various features.
+- Evaluate and compare performance metrics of different ensemble methods.
